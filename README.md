@@ -1,5 +1,6 @@
 # Sum-of-Digits
 Python language
+
 def sumofdigit(n):
     assert n>=0 and int(n)==n,'entre a positive integer'
     if n==0:
